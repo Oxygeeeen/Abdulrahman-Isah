@@ -1,3 +1,3 @@
 # Abdulrahman-Isah-AI
 
-[ngisahab](https://ngisahab.netlify.app)
+[tech-portfolio](https://tekh-portfolio.netlify.app)
