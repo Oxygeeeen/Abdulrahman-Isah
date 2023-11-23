@@ -41,7 +41,7 @@ Feel free to customize the template to match your personal style and add your pr
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 💪💪
 ```
